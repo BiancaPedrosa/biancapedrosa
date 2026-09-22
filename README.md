@@ -1,4 +1,4 @@
-# Olá, eu sou a Bianca 👋
+á👋🎓á💻á📚í🛠️# Olá, eu sou a Bianca 👋
 
 🎓 Professora no **IFSP Campus Campinas**, no curso de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)**
 
