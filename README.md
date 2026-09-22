@@ -1,6 +1,6 @@
 # Ola, eu sou a Bianca
 
-Professora no IFSP Campus Campinas, no curso de Tecnologia em Analise e Desenvolvimento de Sistemas (TADS)
+Professora no IFSP Campus Campinas, no curso de Tecnologia em Analise e Desenvolvimento de Sistemas (TADS) e no curso Tecnico em Informatica
 
 Leciono e desenvolvo materiais didaticos de desenvolvimento web e back-end para alunos iniciantes
 
