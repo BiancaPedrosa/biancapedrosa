@@ -1,11 +1,10 @@
-# Ola, eu sou a Bianca
+# Olá, eu sou a Bianca
 
-Professora no IFSP Campus Campinas, no curso de Tecnologia em Analise e Desenvolvimento de Sistemas (TADS) e no curso Tecnico em Informatica
+Professora no IFSP Campus Campinas, no curso de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) e no curso Técnico em Informática
 
-Leciono e desenvolvo materiais didaticos de desenvolvimento web e back-end para alunos iniciantes
+Leciono e desenvolvo materiais didáticos de desenvolvimento web e back-end para alunos iniciantes
 
 Curriculo Lattes: [lattes.cnpq.br/5512756726602398](http://lattes.cnpq.br/5512756726602398)
-LinkedIn: [linkedin.com/in/bianca-p-6371a0218](https://www.linkedin.com/in/bianca-p-6371a0218/)
 
 ---
 
